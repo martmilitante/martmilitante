@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reymart</h1>
 <h3 align="center">A passionate Frontend Developer | Software Developer | WordPress Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martmilitante" alt="martmilitante" /></a> </p>
-
 - 🌱 I’m currently learning **nextjs, tailwind css**
 
 - 📫 How to reach me **martmorbos@gmail.com**
