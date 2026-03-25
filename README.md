@@ -1,71 +1,92 @@
-<h1 align="center">Hi 👋, I'm Reymart Militante</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/martmilitante/portfolio/raw/main/public/profile.png" alt="Portfolio Banner" width="85%" />
+</p>
+
+<h1 align="center">Hi, I'm Reymart Militante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+<p align="center">
+  <em>Full Stack Developer | Frontend Specialist | UI/UX Enthusiast</em>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🧑‍💻 Building scalable, performant, and elegant web applications
+- 💡 Passionate about crafting exceptional digital experiences with clean code
+- 🎨 Expert in modern frontend frameworks and responsive design
+- 📦 Visit my portfolio: **[reymartmilitante.dev](https://reymartmilitante.dev)**
+- 🌱 Currently mastering: Advanced system design, real-time applications, and cloud infrastructure
+- 💬 Ask me about: JavaScript, React, Next.js, TypeScript, Node.js, Laravel, and modern CSS
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwindcss,nodejs,laravel,mysql,graphql,docker,prisma,vue" />
+</p>
+
+**Frontend:** React • Next.js • TypeScript • Tailwind CSS • Vue.js  
+**Backend:** Node.js • Laravel • Express • GraphQL • REST APIs  
+**Database:** MySQL • Prisma • TypeORM • MongoDB  
+**Tools:** Docker • Git • Postman • Webpack  
+
+---
+
+### 📌 Featured Projects
+
+<a href="https://github.com/martmilitante/portfolio">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=martmilitante&repo=portfolio&theme=dark&bg_color=000000&border_color=6366f1" width="400" />
+</a>
+
+**[Portfolio Website](https://reymartmilitante.dev)**  
+A modern, fully-featured portfolio built with Next.js, Tailwind CSS, and TypeScript.
+
+✨ **Features:**
+- Dark mode with smooth theme transitions
+- Responsive glassmorphism design
+- Smooth scrolling and animations
+- Skills showcase with progress indicators
+- Project portfolio with detailed descriptions
+- Contact integration
+
+<br/>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=martmilitante&show_icons=true&theme=dark&bg_color=000000&border_color=6366f1&icon_color=6366f1" height="160"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martmilitante&layout=compact&theme=dark&bg_color=000000&border_color=6366f1" height="160"/>
+</div>
+
+---
+
+### 🎯 Latest Work
+
+- 🔧 Full-stack e-commerce platforms with real-time inventory management
+- 📊 Interactive dashboards and analytics applications
+- 🎨 Custom UI component libraries and design systems
+- 🚀 Progressive web applications with offline support
+
+---
+
+### 📬 Let's Connect
+
+<div align="center">
+  
+  [![Website](https://img.shields.io/badge/Website-reymartmilitante.dev-6366f1?style=flat-square&logo=web)](https://reymartmilitante.dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reymart%20Militante-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/reymart-militante/)
+  [![Twitter](https://img.shields.io/badge/Twitter-@martmilitante-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/martmilitante)
+  [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail)](mailto:contact@reymartmilitante.com)
+
+</div>
+
+---
 
 <p align="center">
-  <b>ReactJs Developer | Fullstack Developer</b><br>
-  Delivering scalable, interactive web solutions using advanced technologies for frontend and backend domains.
-</p>
-
----
-
-### 👨‍💻 Professional Summary
-
-I am a dedicated ReactJs and Fullstack Developer with expertise in:
-- Building high-performance web applications and APIs using <strong>React, TypeScript, Next.js, Node.js, ExpressJS, TypeORM</strong> and modern fullstack workflows.
-- Creating efficient, maintainable solutions from database design (MySQL, Postgres) to UI/UX (React, shadcn, MUI, Tailwind CSS).
-- Problem-solving, refactoring legacy codebases, automated testing with <strong>Jest</strong>, and validating data with <strong>Zod</strong>.
-- Leveraging <strong>Tanstack</strong> for state and data management, optimizing systems for business requirements.
-- Collaborating in agile teams, delivering features end-to-end, and constantly learning and adopting new technologies.
-
----
-
-### 🏆 Selected Highlights & Expertise
-- Production experience across startups and enterprise projects, both frontend and backend stacks.
-- Special focus on modular, reusable code, and developer experience.
-- Cloud deployment (AWS, Vercel), CI/CD automation, and strong API/backend engineering.
-- Currently expanding skills in <b>TypeORM</b>, <b>Tanstack</b>, relational databases, and advanced React patterns.
-
----
-
-### 🌐 Let's Connect
-
-- 📧 Email: <b>martmorbos@gmail.com</b>
-- 💼 <a href="https://www.linkedin.com/in/reymartmilitante/" target="_blank">LinkedIn</a>
-
----
-
-### 🛠️ Technologies
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.6ea76c3b2e70e7f7208b3026dddf422b.svg" alt="tailwindcss" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>
-  <img src="https://shadcn/ui/logo.svg" alt="shadcn" width="40" height="40"/>
-  <!-- Fullstack & Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <!-- Libraries/Tools -->
-  <img src="https://avatars.githubusercontent.com/u/5661886?s=200&v=4" alt="tanstack" width="40" height="40"/>
-  <img src="https://jestjs.io/img/opengraph.png" alt="jest" width="40" height="40"/>
-  <img src="https://typeorm.io/images/logo.svg" alt="typeorm" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <!-- Other -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
-</p>
-<p><b>Zod</b> for schema validation</p>
-
----
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martmilitante&show_icons=true&locale=en&layout=compact" alt="martmilitante" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=martmilitante&show_icons=true&locale=en" alt="martmilitante" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martmilitante&" alt="martmilitante" />
+  <em>⭐ If you like my work, feel free to star my repositories! It means a lot.</em>
 </p>
