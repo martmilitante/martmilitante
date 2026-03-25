@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/martmilitante/portfolio/raw/main/public/profile.png" alt="Portfolio Banner" width="85%" />
-</p>
-
 <h1 align="center">Hi, I'm Reymart Militante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
 <p align="center">
   <em>Full Stack Developer | Frontend Specialist | UI/UX Enthusiast</em>
@@ -16,7 +11,7 @@
 - 💡 Passionate about crafting exceptional digital experiences with clean code
 - 🎨 Expert in modern frontend frameworks and responsive design
 - 📦 Visit my portfolio: **[reymartmilitante.dev](https://reymartmilitante.dev)**
-- 🌱 Currently mastering: Advanced system design, real-time applications, and cloud infrastructure
+- 🌱 Currently learning: AI and .Net + C#
 - 💬 Ask me about: JavaScript, React, Next.js, TypeScript, Node.js, Laravel, and modern CSS
 
 ---
@@ -80,8 +75,7 @@ A modern, fully-featured portfolio built with Next.js, Tailwind CSS, and TypeScr
   
   [![Website](https://img.shields.io/badge/Website-reymartmilitante.dev-6366f1?style=flat-square&logo=web)](https://reymartmilitante.dev)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reymart%20Militante-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/reymart-militante/)
-  [![Twitter](https://img.shields.io/badge/Twitter-@martmilitante-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/martmilitante)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail)](mailto:contact@reymartmilitante.com)
+  [![Email](https://img.shields.io/badge/Email-martmorbos@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:martmorbos@gmail.com)
 
 </div>
 
